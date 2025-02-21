@@ -11,5 +11,10 @@
 #link{
 	background-color:red;
 	color:white;
+	padding:10px;
+	border-radius:10px;
 	
+}
+#imag{
+	object-fit:cover;
 }
