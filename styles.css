@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+.hero{
+	display:flex;
+	justify-content:space-between;
+}
+#fav{
+	font-size:10px;
+	text-align:center;
+	padding:20px;
+}
+#link{
+	background-color:red;
+	color:white;
+	
+}
